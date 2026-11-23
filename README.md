@@ -1,4 +1,4 @@
-# College Management System
+# couse Management System
 
 Spring Boot 3 (Java 17) REST API + React (Vite) front end.
 Features: CRUD for Students, Teachers and Courses, JWT login/registration, Google OAuth2 sign-in, role-based access.
